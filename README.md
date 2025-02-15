@@ -1,4 +1,4 @@
-# <p align="center">Hi, I'm Ayoub Bassi 👋</p>
+# <p align="center">Hi, I'm Ayoub 👋</p>
 
 <p align="center">
   <em>A self-taught programmer</em>
